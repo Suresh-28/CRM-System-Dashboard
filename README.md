@@ -1,30 +1,40 @@
-# Fully functional CRM system
+<img width="1909" height="916" alt="Screenshot 2025-07-13 213558" src="https://github.com/user-attachments/assets/14f178ba-51d2-4a4d-aca9-31d2c2a73959" />
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+# Fully Functional CRM System ⚙️📊
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/sureshchinna95026-8967s-projects/v0-fully-functional-crm-system)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/UByow08aIaL)
+A modern, fully functional Customer Relationship Management (CRM) system built with Vercel and designed for managing leads, contacts, sales, and analytics efficiently. Intuitive UI, powerful dashboards, and real-time interactions for streamlined business operations.
 
-## Overview
+---
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+## 🌐 Live Demo
 
-## Deployment
+Explore the app live:  
+👉 [v0-fully-functional-crm-system.vercel.app](https://v0-fully-functional-crm-system.vercel.app/)
 
-Your project is live at:
+---
 
-**[https://vercel.com/sureshchinna95026-8967s-projects/v0-fully-functional-crm-system](https://vercel.com/sureshchinna95026-8967s-projects/v0-fully-functional-crm-system)**
+## ✨ Features
 
-## Build your app
+- 📁 **Lead & Contact Management** — Track, update, and manage customer information  
+- 📊 **Interactive Dashboard** — Real-time metrics, charts, and summaries  
+- 🔄 **Status Pipelines** — Organize deals by stages and priorities  
+- 🔍 **Search & Filters** — Easily find clients and opportunities  
+- 💾 **LocalStorage/Data Persistence** — Retains state and data without needing a backend  
+- 🌓 **Dark & Light Mode** — Toggle themes to match your style
 
-Continue building your app on:
+---
 
-**[https://v0.dev/chat/projects/UByow08aIaL](https://v0.dev/chat/projects/UByow08aIaL)**
+## 🚀 Getting Started
 
-## How It Works
+### Prerequisites
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+- Node.js ≥ 16  
+- npm or yarn
+
+### Installation
+
+```bash
+git clone https://github.com/your-username/fully-functional-crm-system.git
+cd fully-functional-crm-system
+npm install
+npm run dev
